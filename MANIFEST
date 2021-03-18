@@ -1,0 +1,14 @@
+lib/RTE/Dump.pm
+Dump.xs
+Makefile.PL
+MANIFEST
+README.md
+typemap
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
+examples/ret.pl
+examples/dumper.txt
+t/online_dump.t
+t/dump-file.t
+CODE_OF_CONDUCT.md
+LICENSE
