@@ -12,3 +12,4 @@ t/online_dump.t
 t/dump-file.t
 CODE_OF_CONDUCT.md
 LICENSE
+ppport.h
