@@ -1,12 +1,12 @@
 #define LINE_LEN 128
 
-#include "EXTERN.h"
-#include "perl.h"
-#include "XSUB.h"
-#include <stdlib.h>
-#include <stdio.h>
-#include <errno.h>
-#include <stdint.h>
+  
+// Made by Edoardo Mantovani, 2021
+
+#ifndef __CTXS_H
+	#include "Ctxs.h"
+#endif
+
 
 MODULE = RTE::Dump   PACKAGE = RTE::Dump
 PROTOTYPES: DISABLE
