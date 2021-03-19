@@ -1,5 +1,3 @@
-#!/usr/bin/perl
-
 sub BEGIN{
 
 no strict;
