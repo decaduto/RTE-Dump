@@ -1,11 +1,11 @@
-#define LINE_LEN 128
-
-  
 // Made by Edoardo Mantovani, 2021
 
 #ifndef __CTXS_H
 	#include "Ctxs.h"
 #endif
+
+#define AUTHOR EDOARDO_MANTOVANI
+#define LINE_LEN 128
 
 
 MODULE = RTE::Dump   PACKAGE = RTE::Dump
